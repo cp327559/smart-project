@@ -8,9 +8,42 @@
 .sc-fir-title {
     font-size: 34px;
     color: white;
-    padding: 8px;
+    padding: 7px;
     float: left;
 }
 .sc-fir-btn {
     float: right;
+    margin: 10px 35px;
+}
+.sc-2nd-line {
+    height: calc((100% - 50px) / 2);
+    margin: 10px;
+}
+.sc-2nd-col1 {
+    height: 100%;
+    background-color: azure;
+    width:13.5%;
+    margin-right: 5px;
+    float: left;
+}
+.sc-2nd-col2 {
+    height: 100%;
+    background-color: azure;
+    width:40.5%;
+    margin-right: 5px;
+    float: left;
+}
+.sc-2nd-col3 {
+    height: 100%;
+    background-color: azure;
+    width:17%;
+    margin-right: 5px;
+    float: left;
+}
+.sc-2nd-col4 {
+    height: 100%;
+    background-color: azure;
+    width:27%;
+    margin-right: 5px;
+    float: left;
 }
