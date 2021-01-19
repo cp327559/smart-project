@@ -1,0 +1,12 @@
+.sc-content {
+    height: 100%;
+    background-color: black;
+}
+.sc-fir-line {
+    height: 50px;
+}
+.sc-fir-title {
+    font-size: 34px;
+    color: white;
+    padding: 8px;;
+}
