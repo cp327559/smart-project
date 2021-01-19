@@ -8,5 +8,9 @@
 .sc-fir-title {
     font-size: 34px;
     color: white;
-    padding: 8px;;
+    padding: 8px;
+    float: left;
+}
+.sc-fir-btn {
+    float: right;
 }
