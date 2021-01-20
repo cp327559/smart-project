@@ -93,9 +93,10 @@
 }
  .header-slide {
       color: #fff;
-      display: flex;
+      /* display: flex; */
       position: absolute;
-      left: 11%;
+      /* left: 11%; */
+      margin-left: 15px;
       transform: translateX(-50%);
       cursor: pointer;
       
