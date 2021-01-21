@@ -16,7 +16,7 @@ import { SmartUserInfoComponent } from './smart-user-info/smart-user-info.compon
   imports: [
     BrowserModule,
     RouterModule.forRoot([
-      { path: '', component: SmartUserInfoComponent },
+      { path: '', component: SmartUserInfoComponent },  
       { path: 'user/', component: SmartUserInfoComponent },
     ]),
     ElModule.forRoot()
